@@ -10,6 +10,7 @@ public class ArrayListDemo1 {
 		city.add("Banglore");
 		
 		System.out.println(city);
+		System.out.println("List of cities>>"+city);
 	}
 
 }
